@@ -1,6 +1,6 @@
 ---
-title: "How To Use Checklist To Improve Your UX"
-date: 2019-10-29
+title: "How To Use Checklists To Improve Your UX"
+date: 2019-11-18
 draft: false
 
 # post thumb
@@ -12,23 +12,12 @@ description: "this is meta description"
 # taxonomies
 categories: 
   - "Android And Gmaing"
-# tags:
-#   - "Photos"
-#   - "Game"
-#   - "React"
-#   - "Python"
-#   - "New"
-
-tags : [
-  "Photos",
-  "Game",
-  "React",
-  "Python",
-  "New",
-  ]
-
-# post type
-type: "featured"
+tags:
+  - "Photos"
+  - "Game"
+  - "React"
+  - "Python"
+  - "New"
 ---
 
 # Heading 1
