@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
 
-publish_mode: editorial_workflow
+# publish_mode: editorial_workflow
 
 media_folder: "static/images/uploads"
 public_folder: "images/uploads"
@@ -38,7 +38,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "date"}
       - {label: "Draft", name: "draft", widget: "boolean", default: true}
-      - {label: "Categories", name: "categories", widget: "string", required: true}
+      - {label: "Categories", name: "categories", widget: "string", required: false}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: Author, name: author, widget: hidden, default: Chris Stayte}
       - {label: Author Image, name: authorImage, widget: hidden, default: "uploads/author.jpg"}
