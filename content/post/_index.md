@@ -1,11 +1,13 @@
 ---
-title: "blog"
-date: 2019-10-29T13:49:23+06:00
+title: blog
+date: 2019-10-29T07:49:23.000Z
 draft: false
-
-# meta description
-description: "this is meta description"
-
-# type
-type : "blog"
+categories: blog
+tags:
+  - personal
+image: /images/uploads/10.jpg
+comments: true
+share: true
+type: blog
 ---
+hi
