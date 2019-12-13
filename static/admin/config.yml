@@ -101,6 +101,6 @@ collections:
       - {label: Type, name: type, widget: hidden, default: "post"}
       - {label: "Body", name: "body", widget: "markdown"}
   - label: "Widget"
-      name: "widget"
-      widget: "string"
-      pattern: ['.{12,}', "Must have at least 12 characters"]
+    name: "widget"
+    widget: "string"
+    pattern: ['.{12,}', "Must have at least 12 characters"]
