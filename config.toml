@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "https://zealous-goldstine-8d2bbb.netlify.com/"
 languageCode = "en-us"
 title = "TEST HUGO"
 theme = "liva-hugo"
