@@ -46,7 +46,7 @@ disqusShortname = ""
   # main menu
   [[menu.main]]
   name = "Acerca"
-  URL = "about/about"
+  URL = "about"
   weight = 2
   
   [[menu.main]]
